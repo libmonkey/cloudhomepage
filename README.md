@@ -1,7 +1,7 @@
 cloudhomepage
 =============
 
-Softwartechnik Aufgabe Homepage in der Cloud
+#Softwartechnik Aufgabe Homepage in der Cloud
 
---Link zum GitVerzeichnis
---Impressum
+*Link zum GitVerzeichnis
+*Impressum
